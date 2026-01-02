@@ -4,8 +4,3 @@
 </caracteristicas del software>
 
 
-<caracteristicas de las clases>
-deben tener:
-- sistema de gestion de versiones
-- metadatos/propiedades bien definidos
-</caracteristicas de las clases>
